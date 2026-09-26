@@ -31,17 +31,10 @@ I'm **Ashish Kumar**, a Backend Developer from India with **7+ years of experien
 
 ## 🛠️ Tech Stack & Tools
 
-### 💻 Programming Languages
-
 <p align="start">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Java%208-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 8" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-### ⚙️ Backend Development
-
-<p align="start">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
@@ -56,85 +49,42 @@ I'm **Ashish Kumar**, a Backend Developer from India with **7+ years of experien
   <img src="https://img.shields.io/badge/Resilience4j-007ACC?style=for-the-badge" alt="Resilience4j" />
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge" alt="WebSocket" />
   <img src="https://img.shields.io/badge/STOMP-4B8BBE?style=for-the-badge" alt="STOMP" />
-</p>
-
-### 🗄️ Databases & Caching
-
-<p align="start">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-### 🔄 Messaging & Event Streaming
-
-<p align="start">
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-</p>
-
-### ☁️ DevOps, Cloud & Infrastructure
-
-<p align="start">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-### 🎨 Frontend Development
-
-
-### 📊 Monitoring, Logging & Observability
-
-<p align="start">
   <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK Stack" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-</p>
-
-### 🧪 Testing & API Documentation
-
-<p align="start">
   <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
   <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge" alt="Mockito" />
   <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger / OpenAPI" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
-### 🤖 AI & Machine Learning
-
-<p align="start">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge" alt="AI/ML" />
-</p>
-
-### 🧠 Core Concepts & Software Engineering
-
-<p align="start">
   <img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-6A5ACD?style=for-the-badge" alt="Data Structures and Algorithms" />
   <img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-0078D4?style=for-the-badge" alt="Object-Oriented Programming" />
   <img src="https://img.shields.io/badge/System%20Design-Scalable%20Architecture-0078D4?style=for-the-badge" alt="System Design" />
   <img src="https://img.shields.io/badge/Design%20Patterns-Architecture-8A2BE2?style=for-the-badge" alt="Design Patterns" />
   <img src="https://img.shields.io/badge/Multithreading-Concurrency-FF8C00?style=for-the-badge" alt="Multithreading" />
   <img src="https://img.shields.io/badge/Problem%20Solving-Algorithms-2E8B57?style=for-the-badge" alt="Problem Solving" />
-</p>
-
-### 🔧 Tools & Version Control
-
-<p align="start">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
-
 
 ---
 
