@@ -28,53 +28,13 @@ I'm **Ashish Kumar**, a Backend Developer from India with **7+ years of experien
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Languages and Tools
 
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Programming Languages" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,js,html,css,react,angular,tailwind,bootstrap,vite,mysql,mongodb,postgres,redis,kafka,rabbitmq,docker,kubernetes,jenkins,aws,ansible,linux,bash,git,github,prometheus,grafana,opencv,pytorch,tensorflow&perline=8" alt="All Skills and Technologies" />
 </p>
 
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express" alt="Backend Technologies" />
-</p>
-
-**Technologies:** Java 8+, Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, Microservices, REST APIs, OAuth2, JWT, Feign Client, Resilience4j.
-
-### 🗄️ Databases & Messaging
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" alt="Databases" />
-</p>
-
-**Technologies:** MySQL, MongoDB, PostgreSQL, Redis, Apache Kafka, RabbitMQ.
-
-### 🎨 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,angular,vite" alt="Frontend Technologies" />
-</p>
-
-**Technologies:** HTML5, CSS3, JavaScript, React, Angular, Tailwind CSS, Bootstrap, Vite.
-
-### ☁️ DevOps & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,ansible,linux,bash,git,github" alt="DevOps and Cloud" />
-</p>
-
-**Technologies:** Docker, Kubernetes, Helm, Jenkins, Ansible, AWS, Linux, Git, CI/CD.
-
-### 📊 Monitoring & Data Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,opencv,pytorch,tensorflow" alt="Monitoring and Machine Learning" />
-</p>
-
-**Technologies:** ELK Stack, Grafana, Prometheus, Python, Pandas, OpenCV, PyTorch, TensorFlow.
+<p align="center">   Java | Java 8 | Spring Boot | Spring MVC | Spring Security | Spring Data JPA | Hibernate | Microservices | REST APIs | OAuth2 | JWT | Feign Client | Resilience4j | Python | MySQL | MongoDB | PostgreSQL | Redis | Apache Kafka | RabbitMQ | Docker | Kubernetes | Jenkins | AWS | Linux | Git | CI/CD | ELK Stack | Grafana | Prometheus | Pandas | OpenCV | PyTorch | TensorFlow </p>
 
 ---
 
@@ -116,14 +76,13 @@ I'm **Ashish Kumar**, a Backend Developer from India with **7+ years of experien
 ## 📦 Repository Overview
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repositories-Explore%20Below-blue?style=for-the-badge&logo=github" alt="Public Repositories" />
-  <img src="https://img.shields.io/github/followers/er-ashish-kumar-dev?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
-</p>
-
-<p align="center">
   <a href="https://github.com/er-ashish-kumar-dev?tab=repositories">
     <img src="https://img.shields.io/badge/View-All%20Repositories-181717?style=for-the-badge&logo=github" alt="View All Repositories" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/er-ashish-kumar-dev?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
 </p>
 
 ---
@@ -180,7 +139,7 @@ I'm **Ashish Kumar**, a Backend Developer from India with **7+ years of experien
   <a href="https://www.hackerrank.com/er_ashish_kumar1">
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank" />
   </a>
-  <a href="mailto:er.ashish.kumar1208@gmail.com">
+  <a href="mailto:[er.ashish.kumar1208@gmail.com](mailto:er.ashish.kumar1208@gmail.com)">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
