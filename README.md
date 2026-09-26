@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ashish Kumar</h1>
 
-<h3 align="center">🚀 Senior Backend Developer | Java | Spring Boot | Microservices</h3>
+<h3 align="center">🚀 Backend Developer | Java | Spring Boot | Microservices</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=7%2B+Years+of+Software+Development+Experience;Java+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+Backend+Applications;Exploring+Python+%7C+AI%2FML+%7C+Modern+Frontend" alt="Typing SVG" />
