@@ -23,18 +23,34 @@ I'm **Ashish Kumar**, a Backend Developer from India with **7+ years of experien
 * 🗄️ Experienced with SQL and NoSQL databases.
 * 🔐 Knowledge of Spring Security, OAuth2, and JWT authentication.
 * ☁️ Familiar with Docker, Kubernetes, CI/CD, and cloud technologies.
+* 🧠 Interested in Data Structures & Algorithms (DSA) and System Design.
 * 🌱 Exploring Python, AI/ML, and modern frontend development.
-* 🎯 Passionate about clean code, system design, and continuous learning.
+* 🎯 Passionate about clean code, scalable architecture, and continuous learning.
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,js,html,css,react,angular,tailwind,bootstrap,vite,mysql,mongodb,postgres,redis,kafka,rabbitmq,docker,kubernetes,jenkins,aws,ansible,linux,bash,git,github,prometheus,grafana,opencv,pytorch,tensorflow&perline=8" alt="All Skills and Technologies" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,js,html,css,react,angular,tailwind,bootstrap,vite,mysql,mongodb,postgres,redis,kafka,rabbitmq,docker,kubernetes,jenkins,aws,ansible,linux,bash,git,github,prometheus,grafana,opencv,pytorch,tensorflow&perline=10" alt="Tech Stack and Tools" />
 </p>
 
-<p align="center">   Java | Java 8 | Spring Boot | Spring MVC | Spring Security | Spring Data JPA | Hibernate | Microservices | REST APIs | OAuth2 | JWT | Feign Client | Resilience4j | Python | MySQL | MongoDB | PostgreSQL | Redis | Apache Kafka | RabbitMQ | Docker | Kubernetes | Jenkins | AWS | Linux | Git | CI/CD | ELK Stack | Grafana | Prometheus | Pandas | OpenCV | PyTorch | TensorFlow </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
+  <img src="https://img.shields.io/badge/Microservices-0078D4?style=for-the-badge" alt="Microservices" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/OAuth2-3C873A?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth2" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Resilience4j-007ACC?style=for-the-badge" alt="Resilience4j" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK Stack" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-6A5ACD?style=for-the-badge" alt="Data Structures and Algorithms" />
+  <img src="https://img.shields.io/badge/System%20Design-Scalable%20Architecture-0078D4?style=for-the-badge" alt="System Design" />
+</p>
 
 ---
 
@@ -139,7 +155,7 @@ I'm **Ashish Kumar**, a Backend Developer from India with **7+ years of experien
   <a href="https://www.hackerrank.com/er_ashish_kumar1">
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank" />
   </a>
-  <a href="mailto:[er.ashish.kumar1208@gmail.com](mailto:er.ashish.kumar1208@gmail.com)">
+  <a href="mailto:er.ashish.kumar1208@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
