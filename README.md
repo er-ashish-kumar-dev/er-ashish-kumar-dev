@@ -31,8 +31,6 @@ I'm **Ashish Kumar**, a Backend Developer from India with **7+ years of experien
 
 ## 🛠️ Tech Stack & Tools
 
-## 🛠️ Technical Skills
-
 ### 💻 Programming Languages
 
 <p align="start">
